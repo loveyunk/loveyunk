@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My name is YW and I'm a frontend developer! 👋
 
 - 🔭 I’m currently working on ... Cy
 - 🌱 I’m currently learning ... Vue.js
@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Firebase
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Github
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... He
+- ⚡ Fun fact: ... 
