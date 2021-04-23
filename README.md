@@ -2,9 +2,9 @@
 
 My name is YW and I'm a frontend developer! 👋
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... Vue.js
+- 🔭 I’m currently working on ... zh
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... Firebase
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Github
