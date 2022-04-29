@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is YW and I'm a frontend developer! 👋
+My name is jj and I'm a frontend developer! 👋
 
-- 🔭 I’m currently working on ... zh
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... Firebase
